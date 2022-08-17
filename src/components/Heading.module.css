@@ -1,0 +1,16 @@
+.headingContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f55a5a;
+  color: white;
+  height: 55px;
+}
+
+.headingImage {
+  margin-right: 7px;
+}
+
+.headingText {
+  font-weight: 400;
+}
