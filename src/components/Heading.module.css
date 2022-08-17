@@ -4,7 +4,11 @@
   align-items: center;
   background-color: #f55a5a;
   color: white;
-  height: 55px;
+  height: 65px;
+  margin-bottom: 25px;
+  /* position: fixed;
+  top: 0;
+  width: 100%; */
 }
 
 .headingImage {
