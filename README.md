@@ -2,7 +2,7 @@
 
 This project was created using ReactJS. I found the usefulness of sending objects to components as props in order to create self updating web pages. The program reads through a data file and creates a component (the travel destination and details) based on the information read.
 
-![travel journal](../../Desktop/travel-journal.png)
+![travel journal](./src/assets/travel-journal.png)
 
 # Getting Started with Create React App
 
